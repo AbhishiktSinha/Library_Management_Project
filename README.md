@@ -1,3 +1,0 @@
-# Library Management Services
-
-## Introduction

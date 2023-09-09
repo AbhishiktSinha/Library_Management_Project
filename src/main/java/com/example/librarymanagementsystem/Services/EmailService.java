@@ -43,7 +43,7 @@ public class EmailService {
     @Value("${book.returnAfterDays}")
     private Integer returnAfterDays;
 
-    private String from = "springbootlibraryproject@gmail.com";
+    private String from = "";
 
     public void sendBookIssueEmail(BookIssueEmailDTO issueEmailDTO, String receiverEmail) throws MessagingException {
 
