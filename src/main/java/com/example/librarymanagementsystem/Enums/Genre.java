@@ -1,0 +1,27 @@
+package com.example.librarymanagementsystem.Enums;
+
+public enum Genre {
+
+    FICTION,
+    SCIENCE_FICTION,
+    FANTASY,
+    MYSTERY,
+    NON_FICTION,
+    BIOGRAPHIES_AND_AUTOBIOGRAPHIES,
+    HISTORY,
+    SCIENCE,
+    MATHEMATICS,
+    ENGINEERING_MATHEMATICS,
+    PHYSICS,
+    APPLIED_MATHEMATICS,
+    CHEMISTRY,
+    BIOLOGY,
+    SCIENTIFIC_JOURNAL,
+    MAGAZINE,
+    THRILLER,
+    HORROR,
+    ACTION,
+    COMEDY,
+    CRIME,
+    DRAMA
+}
